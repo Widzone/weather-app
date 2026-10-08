@@ -15,7 +15,7 @@ body {
   max-width: 470px;
   background: linear-gradient(135deg, #00feba, #5b548a);
   color: #fff;
-  margin: 100px auto 0;
+  margin: 70px auto 0;
   border-radius: 20px;
   padding: 40px 35px;
   text-align: center;
@@ -34,7 +34,7 @@ body {
   background-color: #ebfffc;
   color: #555;
   padding: 10px 25px;
-  height: 60px;
+  height: 50px;
   border-radius: 30px;
   flex: 1;
   margin-right: 16px;
@@ -46,8 +46,8 @@ body {
   outline: 0;
   background-color: #ebfffc;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   cursor: pointer;
 }
 
@@ -57,16 +57,16 @@ body {
 
 .weather-icon {
   width: 170px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .weather h1 {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 500;
 }
 
 .weather h2 {
-  font-size: 45px;
+  font-size: 60px;
   font-weight: 400;
   margin-top: -10px;
 }
